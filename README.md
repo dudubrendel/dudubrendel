@@ -1,13 +1,8 @@
- <div align = "center">
-  <h1 align="center" >Oii 👋 Eu sou o Eduardo! </h1>
+## Oiii eu sou o Eduardo Brendel, Desenvolvedor de software Front-end 👋 
 <div align="center">
   <a href="https://github.com/dudubrendel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudubrendel&show_icons=true&hide_border_color=ffffff&theme=radical"/>
-</div>
-  
- <div align = "center">
-  <h1 align="center" >Desenvolvedor de Software Front-end </h1>
-    
+</div>   
 <div style="display: inline_block"><br>
   <img align="center" alt="Dudu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dudu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
