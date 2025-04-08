@@ -1,4 +1,4 @@
-## Oiii eu sou o Eduardo Brendel, Desenvolvedor de software Front-end 👋 
+## Eu sou o Eduardo Brendel, Desenvolvedor de software Front-end 👋 
 <div align="center">
   <a href="https://github.com/dudubrendel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudubrendel&show_icons=true&hide_border_color=ffffff&theme=radical"/>
